@@ -142,35 +142,121 @@ Risco:
 	> Riscos de maior impacto.
 
 Artefatos do Scrum - Projetados para maximizar a transparência das informações-chave necessárias para assegurar que o Scrum Team tenha sucesso nas entregas do projeto:
-- Declaração de Visão do Projeto: Documento que tem como objetivo apresentar um escopo inicial do projeto, seus objetivos, metas e justificativa da existência do projeto;
-- Revisado diversas vezes antes do início do projeto, afim de satisfazer a visão dos patrocinadores;
-- Não representa a visão do Scrum Team, mas, de quem está pagando a iniciativa;
+
+- Declaração de Visão do Projeto:
+	> Documento que tem como objetivo apresentar um escopo inicial do projeto, seus objetivos, metas e justificativa da existência do projeto;
+	> Revisado diversas vezes antes do início do projeto, afim de satisfazer a visão dos patrocinadores;
+	> Não representa a visão do Scrum Team, mas, de quem está pagando a iniciativa;
+
 - Backlog Priorizado do Produto:
 	> Lista de itens priorizados, incluindo os requisitos funcionais ou não funcionais do sistema ou produto que está sendo desenvolvido no projeto;
 	> O responsável por esse backlog é o PO;
 	> Evolue com a evolução do produto.
+
 - Backlog da Sprint:
 	> Lista de tarefas que o time do projeto define para implementar na Sprint;
 	> Deve ser baseado no Backlog Priorizado do Produto;
 	> Conter os itens do Backlog do Produto mais prioritários para o projeto.
+
 - Épicos:
 	> Fase inicial dos projetos;
-	> Histórias grandes e não refinadas;
-	> Evolue para histórias de usuários menores.
+	> Histórias de usuário grandes e não refinadas;
+	> Nunca está completo: Evolue para histórias de usuários menores.
+
 - Histórias de Usuários:
 	> Descrição resumida, clara e objetiva de uma funcionalidade que deverá ser entregue, sempre do ponto de vista do usuário final do produto;
 	> Não se trata da descrição completa de uma funcionalidade;
 	> Trata-se de uma promessa de se discutir uma funcionalidade;
-	> Lembrete de que uma discussão já ocorreu.
+	> Lembrete de que alguma discussão já ocorreu.
+
 - Gráfico de Burndown:
 	> Representação visual da soma das estimativas dos esforços restantes do backlog;
 	> Permite uma comparação com os atuas trabahos realizados;
+	
 	> Burndown do Produto:
 		>> Soma dos esforços restantes do backlog do produto ao longo do tempo;
 		>> Medido por Sprints.
+	
 	> Burndown da Sprint:
 		>> Quantidade restante de trabalho restante do backlog da Sprint;
 		>> Medido, geralmente, em horas.
+
 - Scrum Board:
 	> Quadro contendo os itens necessários para a realização do projeto;
-	> Entendimento visual e claro do trabalho em andamento.
+	> Entendimento visual e claro do trabalho em andamento;
+	> Colunas:
+		>> Histórias de Usuário - Backlog de histórias divididas em tarefas;
+		>> A Fazer - tarefas aguardando execução;
+		>> Em Andamento - tarefas que estão sendo realizadas;
+		>> Em Testes - tarefas que estão sendo testadas;
+		>> Pronto - tarefas concluídas.
+
+Eventos/Cerimônias Scrum:
+
+Timebox ou Timeboxed - Janela de tempo para realizar um trabalho.
+
+Sprint:
+- Evento timeboxed iterativo de duração fixa;
+- De 1 a 4 (ou 6) semanas;
+- Possuir meta estabelecida;
+- Realizar entregas parciais de funcionalidades ao cliente;
+- O Scrum Master, na Sprint, deve garantir que não haja mudanças que possam impactar negativamente essa Sprint, tais como alterações na composição do time, ou alterações nas metas de qualidade;
+- Os Developers devem se concentrar a atingirem os objetivos definidos pelo Backlog da Sprint;
+- Caso os Developers percebam que não há tempo hábil para completarem a Sprint dentro do prazo, deverão contatar, imediatamente, o PO desse projeto. O PO deverá analisar a situação e adaptar o backlog ou remover o backlog daquela Sprint;
+- Caso os Developers verificarem que há mais tempo que o necessário para realizar a Sprint, poderão contatar o PO para selecionar mais itens do Backlog;
+- O PO também poderá cancelar uma Sprint, caso a meta estabelecida para ela não faça mais sentido, seja por mudanças no produto, necessidades da empresa, necessidades do mercado, entre outras;
+- Quando a Sprint é cancelada, os itens finalizados são revisados e aceitos. O restante dos itens volta ao backlog do produto, para serem executados futuramente.
+
+Sprint Planning Meeting - Reunião de Planejamento da Sprint:
+- Duração de 2 horas a cada semana da Sprint;
+- Pode ser dividida em duas partes:
+	> Etapa1: Definição do objetivo:
+		>> O PO explica para os Developers as prioridades máximas e requisitos prioritários;
+		>> Definem o objetivo da Sprint.
+	> Etapa 2: Estimativa de trabalho:
+		>> Os Developers decidem como completar os itens do Backlog Priorizado do Produto, para cumprirem as metas da Sprint, baseados nas informações passadas pelo PO;
+		>> Cria-se o Backlog da Sprint.
+
+Daily Meetings - Standups ou Reuniões Diárias:
+- Reuniões diárias de, até, 15 minutos;
+- Verificar o progresso do trabalho;
+- Agendar outras reuniões, caso necessário;
+- Perguntas a serem feitas nas Dailys:
+	> O que foi feito no projeto desde a última reunião;
+	> O que irei fazer até a próxima reunião;
+	> Quais são os impedimentos, se houver;
+	> Deve ser feita, sempre que possível, no mesmo local e no mesmo horário, todos os dias, durante toda a Sprint;
+	> Reunião que serve, obrigatóriamente, somente aos Developers;
+	> O Scrum Master poderá participar da reunião;
+	> A reunião não pode conter nenhum tema referente ao status do projeto em andamente;
+	> Os Developers precisam monitorar o progresso da Sprint no dia-a-dia através do Gráfico de Burndown;
+	> Logo após cada reunião diária, os Developers atualizam o grafico, indicando o que foi efetivamente encerrado.
+
+Sprint Review - Revisão da Sprint:
+- Feita ao final de cada Sprint;
+- Duração de, até, 1 hora por semana de Sprint;
+- O PO é o responsável por essa reunião;
+- O PO verifica o que foi ou não realizado dentro do planejado para a Sprint;
+- O Scrum Team deve apresentar ao PO os itens 100% finalizados, de acordo com os critérios de aprovação;
+- O PO certifica-se se o item entrega está, realmente, de acordo com os critérios estabelecidos;
+- Caso não esteja de acordo, o PO "rejeita" o item e ele entra no Backlog do Produto, novamente;
+- O PO discute o Backlog do Produto da forma em que está e faz previsões de datas de futuras entregas, de acordo com o andamento atual do projeto.
+
+Sprint Retrospective - Retro - Retrospectiva da Sprint:
+- Sempre existem formas de melhorar, não importa quão pequena é essa melhoria;
+- Após a revisão da Sprint, ocorre a reunião de Retrospectiva da Sprint;
+- Duração de, até, 1 hora por semana da Sprint;
+- Inspecionar como correu a última Sprint em se tratando de Pessoas, das Relações entre as Pessoas, dos Processos e das Ferramentas;
+- Avalia-se o que funcionou, para que possa ser repetido;
+- Avalia-se o que não funcionou, para que seja tratado e não volte a acontecer;
+- O Scrum Master é o responsável por essa Retrospectiva. À partir de seus resultados, irá realizar a revisão do processo de desenvolvimento.
+
+Refinamento do Backlog Priorizado do Produto:
+- Contínua Atualização e Manutenção do Backlog Priorizado do Produto;
+- Responsabilidade do PO:
+	> Adiciona Detalhes;
+	> Adiciona Novas Estimativas;
+	> Reordena e Reprioriza itens;
+	> Reprioriza as Atividades (enquanto os Developers podem reestimar atividades).
+- É um processo contínuo, não é timeboxed.
+
