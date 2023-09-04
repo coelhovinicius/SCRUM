@@ -1,0 +1,176 @@
+Certificação Scrum Master: Curso Preparatório - Udemy
+
+Scrum - Framework de Gerenciamento de Projetos:
+- Desenvolve e sustenta projetos e produtos complexos;
+- Declaração da Visão do Projeto: Documento onde os envolvidos definem esforço de colaboração para criar um novo projeto, produto serviço, etc.;
+- Ambiente de colaboração;
+- Progresso contínuo;
+- Transparência da comunicação.
+- Times multifuncionais, auto-organizados e empoderados;
+- Sprints - Curtos intervalos de tempo (1 a 4 semanas, idealmente) em que uma certa quantidade de trabalho deve ser feita;
+- Funcionamento em sincronia das áreas envolvidas no negócio.
+
+Guia SBOK:
+- Indicado para os membros do Time Scrum;
+- Product Owner (PO) - Entender plenamente o framework Scrum e as preocupações dos clientes ou stakeholders com assuntos que envolvem justificativa de negócio, qualidade, mudança e aspectos de risco associados aos projetos;
+- Scrum Master: Usa- o para aprender sobre o seu papel no acompanhamento do framework Scrum em projetos;
+- Developers: Melhor compreensão dos processos de Scrum e ferramentas associadas que podem utilizadas para criar produtos po serviços do projeto;
+
+>>> VERIFICAR SBOK EM PDF <<<
+O Guia SBOK pode ser consultado à partir de um dos 3 papéis principais (ver sessão "Guia de Papéis" do SBOK):
+- Product Owner;
+- Scrum Master;
+- Developers.
+
+O Guia SBOK diferencia, claramente, as Entradas, Ferramentas e Saídas Obrigatórias ou Opcionais. Os itens acompanhados por um asterisco são Obrigatórios e as que não têm, Opcionais.
+Para os iniciantes no framework Scrum, é melhor focar nos itens Obrigatórios das Entradas, Ferramentas e Saídas, enquanto que, para os mais experientes no Scrum, é necessário focar em todos os itens.
+
+Benefícios do Scrum
+- Adaptabilidade - Aceita mudanças;
+- Foco no cliente - ênfase no valor de negócio;
+- Entrega contínua de valor;
+- Entrega antecipada de alto valor - Priorização do Backlog e Refinamento do Backlog;
+- Feedback contínuo - Reuniões e Retrospectiva de Sprints;
+- Informações compartilhadas e atualizadas;
+- Transparência;
+- Alta velocidade;
+- Estado Hiperprodutivo.
+
+Escalabilidade Scrum
+
+Princípios Scrum:
+- Controle de Processo Empírico:
+	> Transparência;
+	> Inspeção;
+	> Adaptação.
+- Auto-organização:
+	> Responsabilidade compartilhada;
+	> Ambiente colaborativo.
+- Colaboração:
+	> Consciência;
+	> Articulação;
+	> Apropriação.
+- Priorização orientada a Valor:
+	> Foco em entregar o máximo valor de negócio durante todo o projeto.
+- Time-boxing:
+	> Vários eventos do Scrum tem uma duração limitada;
+	> A restrição ajuda a gerenciar o planejamento e execução do projeto.
+	> Eventos Time-boxed:
+		>> Sprints;
+		>> Reuniões Diárias (Daily ou Stand-ups);
+		>> Reunião de Planejamento da Sprint;
+		>> Reunião de Revisão da Sprint.
+- Desenvolvimento Iterativo:
+	> Dividido em Sprints;
+	> Desenvolvimento iterativo;
+	> Melhor administração de mudanças;
+	> Desenvlvimento de projetos que atendam às necessidades dos clientes;
+	> Delineia as responsabilidades do dono do produto e da organização.
+
+
+Aspectos do Scrum:
+
+Organização:
+
+- Papéis desempenhados em um projeto - porcos e galinhas;
+- Papéis Centrais - porcos:
+	> Obrigatoriamente necessários para o desenvolvimento do produto ou projeto
+- Papéis não-essenciais - galinhas:
+	> Demais pessoas que não estejam no dia-a-dia do projeto;
+	> Envolvidos que não estão necessariamente dispostos a fazer de tudo para a entrega do projeto.
+
+Papéis Centrais:
+
+- Project Owner:
+	> Responsável por alcançar o melhor valor de negócio para o projeto;
+	> Coordenação das necessidades dos clientes;
+	> Manutenção da justificativa de negócio para o projeto;
+	> Representa a voz do cliente.
+
+- Scrum Master:
+	> Facilitador;
+	> Garante ao Time Scrum o forecimento de um ambiente propício para a conclusão do projeto com sucesso;
+	> Guiar a equipe nas melhores práticas do Scrum;
+	> Facilita e ensina as práticas do Scrum para todos os envolvidos no projeto;
+	> Verifica os impedimentos que bloqueiam a entrega de produtos aceitáveis;
+	> Remove os impedimentos encontrados pelo time e assegura que os processos do Sceum estejam sendo seguidos corretamente.
+
+- Desenvolvedores:
+	> Têm o entendimento dos requisitos especificados pelo dono do produto;
+	> Desenvolvimento das entregas do projeto;
+	> Equipe empenhada em construir o projeto.
+
+Papéis não-essenciais:
+
+- Podem interagir com o Time Scrum, porém, não podem ser essenciais para atingir o sucesso dos objetivos do projeto;
+	> Partes interessadas - Clientes, Stakeholders, Usuários, Patrocinadores, etc.;
+	> Scrum Guidance Body (SGB) - Opcional. Conjunto de documentos ou um grupo de especialistas que estão envolvidos em diversos parâmetros-chave da organização; Orienta o trabalho realizado pelo Dono do Produto, Scrum Master e Developers. Fornece diretrizes sobre a qualidade que possam ser relevantes a outros projetos na organização.
+	
+	> Fornecedores - Indivíduos e Organizações externas que fornecem produtos ou serviços que não estão dentro das competências essenciais da organização do projeto;
+	> Dono do Produto Chefe ou Chief Product Owner - Papel desempenhado em projetos maiores com vários times Scrum. Responsável por facilitar o trabalho dos donos de produto e por manter a justificativa de negócio durante um grande projeto;
+	> Scrum Master Chefe ou Chief Scrum Master (CSM) - Responsável pela coordenação das atividades relacionadas com o Scrum em projetos grandes, que podem exigir que vários times Scrum trabalhem em paralelo.
+
+Justificativa de negócio:
+- Avaliação adequada do negócio antes de iniciar qualquer projeto;
+- Baseado no conceito de entrega dirigido a valor;
+- Incerteza;
+- Entregas antecipadas de valor a cada Sprint, comprovando o valor do projeto aos Stakeholders.
+
+Qualidade:
+- Atender aos critérios de aceitação;
+- Alcançar o valor de negócio esperado pelo cliente;
+- Atualização constante do Backlog Priorizado do Produto;
+- Melhoria Contínua com a verificação de erros através de repetitivos testes a cada Sprint;
+- Desenvolvimento, teste e documentação são comandados pelo mesmo time, garantindo a qualidade.
+
+Mudança:
+- Todo projeto está sujeito a mudanças;
+- O framework Scrum é desenhado para aceitar mudanças;
+- Maximizar os os benefícios decorrentes das mudanças;
+- Minimizar os aspectos negativos;
+- Sprints iterativas e curtas;
+- Interação com o cliente ou usuário;
+- Mudanças de forma mais rápida.
+
+Risco:
+- Evento incerto que possa contribuir com o sucesso ou o fracasso do negócio;
+- Oportunidades - positivo;
+- Ameaças - negativo;
+- Inicia no início do projeto e continua por todo o cilo de vida do projeto;
+- Identificar, avaliar e responder a Riscos:
+	> Riscos de alta probabilidade;
+	> Riscos de maior impacto.
+
+Artefatos do Scrum - Projetados para maximizar a transparência das informações-chave necessárias para assegurar que o Scrum Team tenha sucesso nas entregas do projeto:
+- Declaração de Visão do Projeto: Documento que tem como objetivo apresentar um escopo inicial do projeto, seus objetivos, metas e justificativa da existência do projeto;
+- Revisado diversas vezes antes do início do projeto, afim de satisfazer a visão dos patrocinadores;
+- Não representa a visão do Scrum Team, mas, de quem está pagando a iniciativa;
+- Backlog Priorizado do Produto:
+	> Lista de itens priorizados, incluindo os requisitos funcionais ou não funcionais do sistema ou produto que está sendo desenvolvido no projeto;
+	> O responsável por esse backlog é o PO;
+	> Evolue com a evolução do produto.
+- Backlog da Sprint:
+	> Lista de tarefas que o time do projeto define para implementar na Sprint;
+	> Deve ser baseado no Backlog Priorizado do Produto;
+	> Conter os itens do Backlog do Produto mais prioritários para o projeto.
+- Épicos:
+	> Fase inicial dos projetos;
+	> Histórias grandes e não refinadas;
+	> Evolue para histórias de usuários menores.
+- Histórias de Usuários:
+	> Descrição resumida, clara e objetiva de uma funcionalidade que deverá ser entregue, sempre do ponto de vista do usuário final do produto;
+	> Não se trata da descrição completa de uma funcionalidade;
+	> Trata-se de uma promessa de se discutir uma funcionalidade;
+	> Lembrete de que uma discussão já ocorreu.
+- Gráfico de Burndown:
+	> Representação visual da soma das estimativas dos esforços restantes do backlog;
+	> Permite uma comparação com os atuas trabahos realizados;
+	> Burndown do Produto:
+		>> Soma dos esforços restantes do backlog do produto ao longo do tempo;
+		>> Medido por Sprints.
+	> Burndown da Sprint:
+		>> Quantidade restante de trabalho restante do backlog da Sprint;
+		>> Medido, geralmente, em horas.
+- Scrum Board:
+	> Quadro contendo os itens necessários para a realização do projeto;
+	> Entendimento visual e claro do trabalho em andamento.

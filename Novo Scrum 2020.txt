@@ -1,0 +1,113 @@
+Novo Scrum 2020
+
+Os Três Pilares do Scrum:
+- Transparência - Informações claras e visíveis a todo o time - Kanban com Post-its, Scrum/Kanban no JIRA;
+- Adaptação - ;
+- Inspeção - Daily: Inspecionar o trabalho no dia-a-dia e adaptar o que for necessário de um dia para o outro. Review: Inspecionar o que pode ser melhorado e adaptado na próxima Sprint.
+
+Papéis do Scrum
+
+Scrum Team - Time Scrum:
+- Não há hierarquia - cada equipe tem seu papel, porém, não há chefia;
+- Os times são autônomos;
+- Máximo de 10 pessoas na equipe, sendo 1 PO, 1 Scrum Master e até 8 Developers.
+
+- PO - Product Owner - Responsável por maximizar o valor do produto resultante do trabalho do Scrum Team:
+	> Deve conhecer ferramentas de criação e refinamento de produtos de forma Ágil;
+	> Visão do produto;
+	> Gestão do produto;
+	> Saber refinar o Backlog - garantir que o Product Backlog seja transparente, visível e compreensível;
+	> Ordenar os itens do Product Backlog;
+	> Cria e comunica claramente os itens do Product Backlog;
+	> Desenvolver e comunicar explicitamente a Meta do Produto - precisa saber qual produto está sendo criado;
+	> Deve ter as respostas ou ir buscar as respostas para questões referentes aos Produtos;
+	> Pesquisa de mercado;
+	> Definição de quem são os clientes;
+	> Responde por tudo o que se trata do Produto.
+
+- Scrum Master:
+	> 1 Scrum Master por Scrum Team;
+	> Conhece todo o modelo e irá ajudar os POs e os Devs a usarem os modelos no dia-a-dia;
+	> Práticas Scrum;
+	> Estabelece o Scrum conforme definido do Guia Scrum;
+	> Conhece as Cerimônias Scrum;
+	> Treinamento dentro da empresa sobre a cultura do uso do framework Scrum;
+	> Treinar os membros do time em autogerenciamento e Cross-Functions;
+	> Ajuda o Scrum Team a se concentrar na criação de incrementos de alto valor, que atendem à DoD;
+	> Remove os impedimentos ao progresso do dia-a-dia Scrum Team;
+	> Ponte entre o Scrum Team e as outras diversas áreas da empresa necessárias para o objetivo do produto;
+	> Garante que todos os eventos Scerum sejam realizados, produtivamente e sejam mantidos dentro do Timebox;
+	> Ajuda todos a entender a teoria e prática do Scrum, tanto no Scrum Team quanto na organização;
+	> Saber identificar os agentes que podem solucionar alguma questão referente ao produto;
+	> Pode participar de mais de um time de produtos;
+	> Em casos complexos, com times grandes, pode dividir o time, para que não haja mais que 8 devs por time.
+
+- Developers:
+	> Transformar as ideias em produtos;
+	> Construir e fazer a entrega de produtos dentro do Modelo Scrum;
+	> Qualquer pessoa que esteja comprometida em criar qualquer aspectoo de um Incremento utilizável em cada Sprint.
+	> Responsável por criar um plano para a Sprint, o Sprint Backlog;
+	> Introduz, gradualmente, qualidade, aderindo a uma DoD;
+	> Adapta seu plano a cada dia, em direção à meta da Sprint;
+	> Responsabilizar-se mutuamente como profissionais.
+
+Scrum Events - Cerimônias / Eventos:
+- Sprint Planning - Planejamento da Sprint;
+- Sprints:
+	> A Sprint tem um prazo fixo (até 4 semanas);
+	> É inadiável - mesmo que haja pendências, a Sprint deverá ser entregue;
+	> Entender o porque o plano não foi cumprido corretamente;
+	
+- Daily Scrum (standups):
+	> Saber o que acontece no dia-a-dia das entregas;
+	> Deve ter 15 minutos e fala sobre o que foi feito ontem, o que deve ser feito hoje e se há impedimentos para a execução das tarefas.
+	
+- Sprint Review - Foco no produto. Valida se o implemento ao produto criado foi entregue corretamente, se precisa de ajustes para a próxima Sprint;
+- Sprint Retrospective - Foco no processo Scrum. Verifica tudo o que pode ser melhorado no trabalho antes da próxima Sprint;
+
+Scrum Artefacts - Artefatos Scrum
+- Product Backlog - Requisitos e necessidades do produto a ser entregue. É algo vivo, que cresce e se altera ao longo do tempo. O que o produto será ao longo do tempo;
+- Sprint Backlog - A cada planejamento de Sprint, o Scrum Team conversa entre si para definir o que deve ser trabalhado na próxima Sprint de trabalho. Selecionam-se os itens e os movem para o Sprint Backlog. O Time Scrum decide o que será feito e quanto tempo decorrerá para ser feito e entregue no final da Sprint;
+- Product Increment - A cada Sprint, cria-se um pedaço de um produto. Uma tela, um fluxo, uma transação, etc.. É o que sai de incremento para o produto a cada Sprint.
+
+Scrum Commitments - Compromissos Scrum
+- Product Goal - Meta do Produto. O PO é responsável por definir e entender e, até, ajustar a meta do produto
+- Sprint Goal - Define qual o incremento de produto deverá ser entregue ao final da Sprint. Qual a meta da Sprint que entregará valor ao cliente;
+- Definition of Done - DoD - É a definição clara do que será considerado um complemento pronto ao final de uma Sprint. Documentação e Formalização do DoD.
+
+The Scrum Guide - Guia do SCRUM
+O Guia do Scrum contém a definição do Scrum. Cada elemento do Framework serve a um propósito específico, que é essencial para o valor geral e os resultados ovtidos com Scrum.
+Mudar o modelo central, ou ideias do Scrum, remover elementos, ou não seguir as regras do Scrum, encobre os problemas e limita os benefícios do Scrum, potencialmente, até, tornando-o inútil.
+
+Visão Geral do Novo Srcrum:
+- O Scrum é simples. Experimente como está e determine se sua filosofia, teoria e estrutura ajudam a atingir objetivos e criar valor;
+- O framework Scrum é propositalmente incompleto, apenas, definindo as parrtes necessárias para implementar a teoria Scrum;
+- O Scrum é baseado no Empirismo e Lean Thinking;
+- Empirismo: o conhecimento vem da experiência e da tomada de decisões com base no que é observado:
+	> Aprender através da prática;
+	> O conhecimento vem através da experiência;
+	> Melhora de tomada de decisões sobre o que já é conhecido;
+	> Ajuste constante.
+
+- Lean Thinking: reduz o desperdício (tempo, dinheiro) e se concentra no essencial:
+	> Identifica o que é Valor para o Cliente;
+	> Mapeia o fluxo de produção e detecção de desperdícios - fazer as coisas essenciais, que gerem valor;
+	> Estabelece o fluxo contínuo - Não existe pausa no Scrum. Uma sprint acaba, outar começa - otimização do time;
+	> Gera fluxo de valor para o cliente - Entender o que o cliente quer e as etapas para agregar valor ao cliente;
+	> Busca a perfeição - Melhoria contínua.
+
+MVP: Mínimo Produto Viável - Qual o mínimo que pode ser entregue ao cliente, desde que gere valor a cliente.
+
+Exemplos de Regras:
+- A Sprint não pode ter mais de 4 semanas. A cada 4 semanas, ao máximo, deverá ser começada uma nova Sprint;
+- O Time não pode ter mais de 10 pessoas. Se a equipe for grande, divida-a em menores com, até, 10 participantes.
+
+59:00
+
+________________________________________________________________________
+Certificação de Fundamentos Scrum:
+- SFC.org;
+- SCRUM.org - Certificação PSPO;
+________________________________________________________________________
+
+
