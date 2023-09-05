@@ -1,4 +1,4 @@
-+9*Certificação Scrum Master: Curso Preparatório - Udemy
+Certificação Scrum Master: Curso Preparatório - Udemy
 
 Scrum - Framework de Gerenciamento de Projetos:
 - Desenvolve e sustenta projetos e produtos complexos;
@@ -365,3 +365,21 @@ Retrospectiva do Projeto:
 - Os stakeholders e o time central do Scrum se reúnem para fazer uma retrospectiva do projeto;
 - Identificar, documentar e internalizar as lições aprendidas;
 - Muitas vezes, essas lições levam à documentação dos pontos de melhoria acordados a serem implementados em projetos futuros.
+
+ROI - Return Of Investiment
+Com o Scrum, os clientes o ROI é mais rápido para o cliente e se mantem ao longo de todo o ciclo de vida do projeto.
+
+Scrum em Projetos, Programas e Portfólios - SBOK
+
+Projeto:
+- Empreendimento colaborativo para criaçã de novos produtos ou serviços;
+- Afetados pelo Tempo, Custo, Escopo, Qualidade, Pessoas e Capacidades Organizacionais;
+- Objetivo do Time do Projeto: Criar entregas conforme indicado no Backlog Priorizado do Produto.
+
+Programa:
+- Grupo de Projetos relacionados com o objetivo de entregar resultados de negócio, conforme definido na Declaração da Visão do Programa;
+- Incorpora os Backlogs Priorizados dos produtos para todos os projetos de um Programa.
+
+Portfólio:
+- Grupo de Programas relacionados com o objetivo de entregar resultados de negócio, conforme definido na Declaração da Visão do Programa;
+- Integra os Backlogs Priorizados dos Programas para todos os programas deste Portfólio.
