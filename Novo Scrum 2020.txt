@@ -2,8 +2,11 @@ Novo Scrum 2020
 
 Os Três Pilares do Scrum:
 - Transparência - Informações claras e visíveis a todo o time - Kanban com Post-its, Scrum/Kanban no JIRA;
-- Adaptação - ;
-- Inspeção - Daily: Inspecionar o trabalho no dia-a-dia e adaptar o que for necessário de um dia para o outro. Review: Inspecionar o que pode ser melhorado e adaptado na próxima Sprint.
+- Adaptação - Flexibilidade e melhoria contínua perante os desafios do dia-a-dia;
+- Inspeção - Inspecionar se o que está sendo feito irá levar ao objetivo esperado:
+	> Exemplos:
+		>> Daily: Inspecionar o trabalho no dia-a-dia e adaptar o que for necessário de um dia para o outro;
+		>> Review: Inspecionar o que pode ser melhorado e adaptado na próxima Sprint.
 
 Papéis do Scrum
 
@@ -49,29 +52,119 @@ Scrum Team - Time Scrum:
 	> Responsável por criar um plano para a Sprint, o Sprint Backlog;
 	> Introduz, gradualmente, qualidade, aderindo a uma DoD;
 	> Adapta seu plano a cada dia, em direção à meta da Sprint;
-	> Responsabilizar-se mutuamente como profissionais.
+	> Auto-organização: Responsabilizar-se mutuamente como profissionais;
+	> Os POs e SMs podem, por vezes, atuar como Developers.
 
 Scrum Events - Cerimônias / Eventos:
-- Sprint Planning - Planejamento da Sprint;
+>>> Timeboxing - Timeboxed - Limitar o tempo para garantir o fluxo de feedback <<<
 - Sprints:
-	> A Sprint tem um prazo fixo (até 4 semanas);
+	> Prazo fixo de 1 a 4 semanas;
+	> Porções menores de funcionalidades dos projetos;
+	> As Sprints não podem ser alteradas depois de já terem sido lançadas;
 	> É inadiável - mesmo que haja pendências, a Sprint deverá ser entregue;
 	> Entender o porque o plano não foi cumprido corretamente;
+	> Produtos incertos - 1 ou 2 semanas:
+		>> Que possuam dúvidas sobre o mercado, produto, usuários, clientes, etc.;
+		>> Sprints iniciais dos projetos;
+		>> Sprints menores e menos frequentes.
+	> Produtos mais bem definidos - 3 a 4 semanas:
+		>> Sprints de produtos que estão bem no mercado;
+		>> Produtos há mais tempo sendo utilizado;
+		>> Já tenham versões lançadas no mercado;
+		>> Sprints maiores e mais frequentes.
+
+- Sprint Planning:
+	> De 2 a 8 horas (2 horas para cada de Sprint), podendo ser feita divididas em duas reuniões menores:
+		>> 1ª O PO passa toda a meta para o restante do Scrum Team;
+		>> 2ª:
+	> Obrigatória a participação do PO, Scrum Master(opcional, porém, importante) e Developers;
+	> O Scrum Master ajuda a organizar e manter o Timebox;
+	> Planejamento da Sprint;
+	> O Time Scrum define o que será feito e como será feito.
 	
 - Daily Scrum (standups):
+	> Tempo fixo de 15 minutos;
+	> Reunião rápida para o sincronismo do time durante o dia-a-dia;
+	> Definida pela equipe de Developers;
+	> A Daily é para os Developers;
+	> De preferência no mesmo horário e no mesmo local;
+	> O Scrum Master pode ajudar a controlar o timebox;
 	> Saber o que acontece no dia-a-dia das entregas;
-	> Deve ter 15 minutos e fala sobre o que foi feito ontem, o que deve ser feito hoje e se há impedimentos para a execução das tarefas.
+	> Fala sobre o que foi feito ontem;
+	> O que deve ser feito hoje;
+	> Verificar se há impedimentos para a execução das tarefas.
 	
-- Sprint Review - Foco no produto. Valida se o implemento ao produto criado foi entregue corretamente, se precisa de ajustes para a próxima Sprint;
-- Sprint Retrospective - Foco no processo Scrum. Verifica tudo o que pode ser melhorado no trabalho antes da próxima Sprint;
+- Sprint Review:
+	> De 1 a 4 horas (1 hora por semana de Sprint);
+	> Obrigatória a participação do PO, Scrum Master(opcional, porém, importante) e Developers;
+	> Podem ser convidados stakeholders, pessoas de áreas relacionadas, pessoas de fora do Team;
+	> Foco no produto;
+	> Valida se o implemento ao produto criado foi entregue corretamente;
+	> Verifica se há a necessidade de ajustes para a próxima Sprint;
+	> Revisão do PO em todos os itens concluídos pelo time;
+
+- Sprint Retrospective:
+	> Máximo de 3 horas (45 minutos para cada semana de Sprint);
+	> Foco no processo Scrum;
+	> Verifica tudo o que pode ser melhorado no trabalho antes da próxima Sprint;
+	> O que ocorreu bem, deve ser mantido;
+	> O que pode ser melhorado?
+	> O que deve ser retirado para a próxima Sprint?
+	> Como foi o dia-a-dia do trabalho na última sprint;
+	> Tudo o que aconteceu durante a Sprint;
+	> Impedimentos observados;
+	> Criação de Planod de Ação para a correção dos erros - definido pelo time;
+	> Autogestão com a maturidade da equipe;
+	> Todos são responsáveis pelo trabalho do Time.
 
 Scrum Artefacts - Artefatos Scrum
-- Product Backlog - Requisitos e necessidades do produto a ser entregue. É algo vivo, que cresce e se altera ao longo do tempo. O que o produto será ao longo do tempo;
-- Sprint Backlog - A cada planejamento de Sprint, o Scrum Team conversa entre si para definir o que deve ser trabalhado na próxima Sprint de trabalho. Selecionam-se os itens e os movem para o Sprint Backlog. O Time Scrum decide o que será feito e quanto tempo decorrerá para ser feito e entregue no final da Sprint;
-- Product Increment - A cada Sprint, cria-se um pedaço de um produto. Uma tela, um fluxo, uma transação, etc.. É o que sai de incremento para o produto a cada Sprint.
+
+- Product Backlog:
+	> Meta do Produto;
+	> Requisitos e necessidades do produto a ser entregue;
+	> É algo vivo, que vai sendo construído, cresce e se altera ao longo do tempo;
+	> O que o produto será ao longo do tempo;
+	> Responsabilidade do PO - organização de prioridades;
+	> Todo o necessário para construir e melhorar o produto;
+	> Deve ser a única orientação de trabalho do Scrum Team;
+	> O PO faz o refinamento, priorizando os itens de maior valor para o cliente;
+	> Um produto deve ser um veículo para entregar valor;
+	> Tem um limite claro, Stakeholders conhecidos, usuários ou clientes bem definidos;
+	> Um produto pode ser um serviço, um produto físico ou algo mais abtrato, como um resultado;
+	> A Meta do Produto é o objetivo de longo prazo para o Scrum Team;
+	> O Scrum Team deve cumprir (ou abandonar) um objetivo, antes de assumir o próximo;
+	> Alimenta o trabalho dos Developers;
+	> Enquanto o Produto existir, o Product Backlog existe.
+
+
+- Sprint Backlog:
+	> É uma "parte" do Product Backlog;
+	> Meta da Sprint;
+	> A cada planejamento de Sprint, o Scrum Team conversa entre si para definir o que deve ser trabalhado na próxima Sprint de trabalho;
+	> Selecionam-se os itens e os movem para o Sprint Backlog. O Time Scrum decide o que será feito e quanto tempo decorrerá para ser feito e entregue no final da Sprint;
+	> O PO deve ter 
+	> O que os Developers devem focar para cumprir a Sprint;
+	> Por que estamos trabalhando nesses itens? 
+	> O que vamos fazer, trabalhar, construir?
+	> Como fazer? - Tarefas que o Time deve fazer para a entrega. Definido pelos Developers;
+	> Plano feito pelos Developers para cada Sprint;
+	> Focar no objetivo a cada Daily;
+	> Quanto mais detalhado, melhor;
+	> Refinamento e detalhamento dos Backlogs.
+
+- Product Increment:
+	> O que será entregue ao final de cada Sprint;
+	> Pedaço concreto em direção à meta do produto;
+	> Entrega de forma incremental;
+	> Definition of Done;
+	> A cada Sprint, cria-se um pedaço de um produto. Uma tela, um fluxo, uma transação, etc.;
+	> É o que sai de incremento para o produto a cada Sprint;
+	> Cada incremento deve ser testado, para verificar eventuais bugs relacionados à versão anterior;
+	> Testes de Regressão e Testes de Integração;
+	> Afim de gerar valor, o incremento deve ser utilizável pelo cliente ou usuário final.
 
 Scrum Commitments - Compromissos Scrum
-- Product Goal - Meta do Produto. O PO é responsável por definir e entender e, até, ajustar a meta do produto
+- Product Goal - Meta do Produto. O PO é responsável por definir e entender e, até, ajustar a meta do produto;
 - Sprint Goal - Define qual o incremento de produto deverá ser entregue ao final da Sprint. Qual a meta da Sprint que entregará valor ao cliente;
 - Definition of Done - DoD - É a definição clara do que será considerado um complemento pronto ao final de uma Sprint. Documentação e Formalização do DoD.
 
@@ -102,7 +195,7 @@ Exemplos de Regras:
 - A Sprint não pode ter mais de 4 semanas. A cada 4 semanas, ao máximo, deverá ser começada uma nova Sprint;
 - O Time não pode ter mais de 10 pessoas. Se a equipe for grande, divida-a em menores com, até, 10 participantes.
 
-59:00
+
 
 ________________________________________________________________________
 Certificação de Fundamentos Scrum:

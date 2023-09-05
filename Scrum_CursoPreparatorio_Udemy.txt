@@ -1,4 +1,4 @@
-Certificação Scrum Master: Curso Preparatório - Udemy
++9*Certificação Scrum Master: Curso Preparatório - Udemy
 
 Scrum - Framework de Gerenciamento de Projetos:
 - Desenvolve e sustenta projetos e produtos complexos;
@@ -260,3 +260,108 @@ Refinamento do Backlog Priorizado do Produto:
 	> Reprioriza as Atividades (enquanto os Developers podem reestimar atividades).
 - É um processo contínuo, não é timeboxed.
 
+Processos Scrum:
+
+Primeira Fase dos Processos Scrum:
+
+Criar a Visão do Projeto:
+- Declaração da Visão do Projeto;
+- Identificar o PO.
+
+Identificar o Scrum Master e as partes interessadas:
+- Identificar quem será o Scrum Master e os Developers Stakeholders;
+- Baseiam-se em uma seleção específica de critérios.
+
+Formar o Scrum Team:
+- Identificar os membros do Time Scrum;
+- Normalmente, é o PO quem identifica os membros para o Time Scrum;
+- Por vezes, o Scrum Master auxilia na identificação do Time Scrum.
+
+Desenvolver os Épicos:
+- Baseado na Declaração da Visão do Projeto;
+- Reuniões do grupo de usuários podem ser realizadas, para discutir épicos apropriados.
+
+Criar o Backlog Priorizado do Produto:
+- Refinamento dos Épicos;
+- Processamento dos Épicos;
+- Priorização dos Épicos;
+- Criação do Backlog Priorizado para o produto;
+- Estabelecimento dos critérios de Pronto (DoD).
+
+Conduzir o Planejamento da Release:
+- O time central do Scrum revisa as histórias de usuário no Backlog Priorizado do Produto;
+- Definir um cronograma de planejamento da Release;
+- Essencialmente, é um Cronograma de Implementação faseado, que pode ser compartilhado com os stakeholders do projeto;
+- Determinar a duração da Sprint.
+
+Segunda Fase dos Processos Scrum:
+
+Planejar e Estimar: 
+- Criar Histórias de Usuários e seus respectivos critérios de aceitação;
+- Geralmente, as Histórias de Usuários são escritas pelo PO;
+- São projetadas para assegurar que os requisitos do cliente estejam claramente descritos e que possam ser totalmente compreendidos por Stakeholders;
+- Exercícios de escrita da História do Usuário podem ser realizados, envolvendo os membros do Scrum Team na criação dessas históorias de usuários;
+- As Histórias de Usuários são incorporadas ao backlog priorizado do produto.
+
+Aprovar, Estimar e Comprometer as Histórias do Usuário:
+- O PO aprova as Histórias de Usuário para a Sprint;
+- O Scrum Master e o Time Scrum estimam os esforços necessários para desempenhar as funções descritas em cada história de usuário;
+- O Scrum Team se compromete a entregá-las de acordo com os requisitos do cliente.
+
+Criar as Tarefas:
+- As Histórias de Usuário aprovadas, estimadas e comprometidas são divididas em tarefas especificadas e agregadas a uma Lista de Tarefas.
+
+Estimar as Tarefas:
+- Muitas vezes, são realizadas Reuniões para Planejamento de Tarefas.
+- O time central do Scrum estima os esforços necessários, durante a reunião de Planejamento de Tarefas, tendo como resultado uma Lista de Tarefas de Estimativa de Esforço.
+
+Criar o Backlog da Sprint:
+- O time central do Scrum realiza uma Reunião de Planejamento da Sprint;
+- Cia-se um backlog da Sprint, contendo todas as tarefas que serão concluídas durante essa Sprint.
+
+Terceira Fase dos Processos Scrum:
+
+Criar os Entregáveis:
+- O time Scrum trabalha nas tarefas do backlog da Sprint para criar os Entregáveis;
+- Frequentemente, utiliza-se um Scrum Board para acompanhar o trabalho e as atividades que estão sendo realizadas;
+- Questões ou problemas enfrentados pelo time Scrum podem ser atualizados no Registro de Impedimentos.
+
+Conduzir a Reunião Diária:
+- Ralizar a reunião Daily com timebox de 15 minutos;
+- Reunião altamente focada;
+- O Time Scrum atualiza uns aos outros sobre os seus progressos e quaisquer impedimentos que possam estar enfrentando.
+
+Refinamento do Backlog Priorizado do Produto:
+- O PO mantém o Backlog Priorizado do Produto continuamente atualizado e mantido;
+- Pode-se realizar uma Reunião de Revisão do Backlog Priorizado do Produto;
+- Quaisquer mudanças ou atualizações no Backlog são discutidas e incorporadas adequadamente.
+
+Quarta Fase dos Processos Scrum:
+
+Revisão e Retrospectiva:
+- Convocar o Scrum do Scrum:
+	> Os representantes do Time Scrum são convocados para as reuniões do Scrum de Scrums;
+	> Intervalos pré-determinados ou conforme necessário;
+	> Colaboração e acompanhamento dos seus respectivos progressos, impedimentos e as dependências entre si;
+	> Relevante, apenas, em grandes projetos, onde há vários times de Scrum envolvidos.
+
+Demonstrar e Validar a Sprint:
+- O time Scrum apresenta os entregáveis da Sprint ao PO e aos Stakeholders relevantes;
+- Isso é feito em uma Reunião de Revisão da Sprint:
+	> Essa reunião tem como objetivo garantir a aprovação e aceitação do PO para os entregáveis desenvolvidos na sprint.
+
+Retrospectiva da Sprint:
+- O Scrum Master e os Developers se reúnem para discutir as lições aprendidas durante a Sprint;
+- Essa informação é documentada como lições aprendidas, podendo ser aplicadas em Sprints futuras;
+- Muitas vezes, como resultado da Reunião de Retrospectiva da Sprint, podem surgir pontos de melhoria cortados ou recomendações so Scrum Guidance Body.
+
+Quinta Fase dos Processos Scrum - Release:
+
+Envio de Entregáveis:
+- Os entregáveis aceitos são entregues ou transferidos aos Stakeholders relevantes;
+- Documentação através de um acordo formal, chamado de Contrato de Pretação de Trabalho, indicando o sucesso da Finalização da Sprint.
+
+Retrospectiva do Projeto:
+- Os stakeholders e o time central do Scrum se reúnem para fazer uma retrospectiva do projeto;
+- Identificar, documentar e internalizar as lições aprendidas;
+- Muitas vezes, essas lições levam à documentação dos pontos de melhoria acordados a serem implementados em projetos futuros.
