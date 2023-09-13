@@ -13,7 +13,7 @@ Scrum - Framework de Gerenciamento de Projetos:
 Guia SBOK:
 - Indicado para os membros do Time Scrum;
 - Product Owner (PO) - Entender plenamente o framework Scrum e as preocupações dos clientes ou stakeholders com assuntos que envolvem justificativa de negócio, qualidade, mudança e aspectos de risco associados aos projetos;
-- Scrum Master: Usa- o para aprender sobre o seu papel no acompanhamento do framework Scrum em projetos;
+- Scrum Master: Usa o Guia SBOK para aprender sobre o seu papel no acompanhamento do framework Scrum em projetos;
 - Developers: Melhor compreensão dos processos de Scrum e ferramentas associadas que podem utilizadas para criar produtos po serviços do projeto;
 
 >>> VERIFICAR SBOK EM PDF <<<
@@ -40,7 +40,7 @@ Escalabilidade Scrum
 
 Princípios Scrum:
 - Controle de Processo Empírico:
-	> Transparência;
+	> Transparência:
 	> Inspeção;
 	> Adaptação.
 - Auto-organização:
@@ -383,3 +383,154 @@ Programa:
 Portfólio:
 - Grupo de Programas relacionados com o objetivo de entregar resultados de negócio, conforme definido na Declaração da Visão do Programa;
 - Integra os Backlogs Priorizados dos Programas para todos os programas deste Portfólio.
+-----------------------------------------------------------------------------------------
+
+Certificações Scrum:
+
+- SDC - Indicada para Developers;
+- SMC - Indicada para Scrum Masters.
+-----------------------------------------------------------------------------------------
+
+AVA - Análise de Valor Agregado:
+
+- Analisa o desempenho real do projeto em relação ao desempenho planejado em um determinado ponto;
+- Utiliza Gráficos e outros artifícios visuais;
+- Mede as variações atuais do cronograma de custo de desempenho;
+- Prevê o custo final do projeto com base no desempenho atual determinado;
+- Feita ao final de cada Sprint, após a conclusão das histórias de usuário do backlog da sprint.
+
+DFC - Diagrama de Fluxo Cumulativo:
+- Ferramenta útil para a elaboração de relatórios;
+- Acompanhamento de desempenho do projeto;
+- Fornece uma representação visual simples do andamento do projeto em um determinado ponto;
+- Utilizada para fornecer status de nível superior de todo o projeto, e não de atualizações diárias das sprints individuais;
+- Retrato da quantidade de trabalho em seu sistema, para cada estágio de sua cadeia de valor, no decorrer do tempo:
+	> Done: Representa a velocidade no decorrer do tempo;
+	> Trabalho em Progresso: Representada pela área entre as linhas Done e Backlog;
+	> Se a distância entre duas linhas na área de Trabalho em Progresso aumentar, pode ser um sinal de gargalo;
+	> Se alinha de Backlog estiver mais inclinada que a linha Pronto, há um sinal sinal claro de que se está entregando mais trabalho ao sistema do que sua capacidade atual de entrega.
+- Estimar a data final de Entrega: Projetar onde as linhas de Backlog e Done irão se encontrar;
+- O tempo médio de ciclo e quantidade de itens na fila também podem ser extraídos desse diagrama.	
+
+Aspectos da AVA:
+
+Monitora 3 dimensões-chave para cada história de usuário:
+
+- VP - Valor Planejado:
+	> Valor do progresso físico planejado até a data da avaliação;
+	> O Total do VP, por vezes, é chamado de Linha de Base de Medição do Desempenho.
+
+- CR - Custo Real:
+	> Custo efetivamente gasto até a data da avaliação.
+
+- VA - Valor Agregado:
+	> Representa o valor do progresso físico efetivamente realizado até a data da avaliação;
+	> O resultado do trabalho agrega valor ao proojeto.
+
+VPR - Variação de Prazos - Medida do desempenho do cronograma do projeto:
+
+- VPR < 0 - Cronograma Atrasado;
+- VPR > 0 - Cronograma Adiantado;
+- VPR = 0 - Conograma de acordo com o planejado.
+Fórmula VPR: VPR = VA - VP, onde:
+- VPR = Variação de Prazos em relação ao planejado;
+- VA = Valor Agregado em relação;
+- VP = Valor Planejado.
+
+VC - Variação de Custos - Medida do desempenho dos custos do projeto:
+- VC < 0 - O projeto está gastando mais do que deveria;
+- VC > 0 - O projeto está gastando menos que o previsto;
+- VC = 0 - O projeto está gastando conforme planejado.
+- Fórmula VC: VC = VA - VR, onde:
+	> VC = Variação de Custo em relação ao planejado;
+	> VA = Valor Agregado;
+	> CR = Custo Real.
+
+Exemplo:
+VP = 3000,00;
+VA = 2000,00;
+CR = 3000,00.
+
+VPR = VA - VP => VPR = 2000 - 3000 = -1000
+PROJETO ATRASADO
+
+VC = VA - CR => VC = 2000 - 3000 = -1000
+ORÇAMENTO ESTOURADO
+
+Cálculo dos Índices de Desempenho do Projeto:
+
+IDP - Índice de Desempenho de Prazos - Medida do progresso alcançado comparado ao progresso planejado em um projeto:
+- IDP < 1 - Projeto Atrasado;
+- IDP > 1 - Projeto Adiantado;
+- IDP = 1 - Projeto Dentro do Cronograma Previsto.
+- Fórmula IDP: IDP = VA/VP, onde:
+	> IDP = Índice de Desempenho de Prazos;
+	> VA = Valor Agregado;
+	> VP = Valor Planejado.
+
+IDC - Índice de Desempenho de Custos - Medida do valor do trabalho executado comparado ao custo real ao progresso feito no projeto:
+- Mede a eficiência de custos do trabalho executado;
+- IDC < 1 - Gastando Mais que o previsto;
+- IDC > 1 - Gastando Menos que o previsto;
+- IDC = 1 - Gastando conforme o previsto.
+- Fórmula IDC: IDC = VA/CR, onde:
+	> IDC = Índice de Desempenho de Custos;
+	> VA = Valor Agregado;
+	> CR = Custo Real.
+
+Exemplo:
+VP = 3000,00;
+VA = 2000,00;
+CR = 3000,00.
+
+IDP = VA/VP => IDP = 2000/3000 = 0,666...
+
+IDC = VA/CR => IDC = 2000/3000 = 0,666...
+
+Previsões:
+- ONT - Orçamento no Término: Valor final planejado para o projeto;
+- EPT - Estimativa para Terminar: Valor necessário para se completar o projeto;
+	> Pode ser calculada de diversas fórmas, variando de acordo com as informações disponíveis no momento.
+- ENT - Estimativa no Término: Estimativa do custo do projeto considerando o progresso medido até o momento:
+	> Fórmula ENT: ENT = CR + EPT.
+
+ENT pode ser calculado de diversas formas, dentre elas:
+
+ENT À Partir de Suposições Inválidas:
+- A estimativa para terminar é calculada manualmente e é baseada na experiência até o presente;
+- À partir do progresso atual do projeto, pode-se tentar prever como será o andamento restante;
+- Não é o ideal, porém, é a forma mais simples de se calcular;
+- Fórmula: ENT = CR + EPT.
+
+ENT À Partir de Variações Atípicas:
+- Ignora desvios;
+- Chamada de Estimativa Otimista;
+- Considera que o andamento do projeto será o mesmo que o planejado, mesmo que a avaliação tenha sido abaixo do esperado;
+- Fórmula: ENT = CR + ONT - VA.
+
+Exemplo:
+CR = 3000;
+ONT = 4000;
+VA = 2000.
+
+ENT = 3000 + 4000 - 2000 = 5000
+ESTIMATIVA OTIMISTA
+
+ENT À Partir de Variações Típicas:
+- Assume que o trabalho restante a ser executado pelo projeto seguirá o mesmo desempenho financeiro obtido até o momento;
+- Utiliza-se do IDC: uma tendência positiva ou negativa do IDC obtido até o momento da avaliação, projetará uma mesma tendência para os custos finais do projeto;
+- Alerta a equipe do projeto de que, se o se mantiver estiver ruim, terminará fora do orçamento previsto;
+- Estimativa Realista;
+- Fórmula: ENT = ONT / IDC.
+
+Exemplo:
+ONT = 4000;
+IDC = 0,666...
+
+ENT = 4000/0,666... = 6000,00
+ESTIMATIVA NO TÉRMINO ULTRAPASSA EM MAIS DE 2000,00 A ESTIMATIVA INICIAL - Esse exemplo indica que o desempenho de custos futuros do projeto será exatamente igual ao desempenho atual, o que serve de alerta para toda a equipe do projeto.
+
+-----------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------
